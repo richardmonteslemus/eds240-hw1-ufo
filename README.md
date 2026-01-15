@@ -57,6 +57,8 @@ To run this analysis, the following R packages are needed:
 -   `glue`
 -   `magick`
 -   `grid`
+  
+## Infographic Output Sample Image
 
 ![UFO Sightings Infographic Output](outputs/ufo_sightings_infographic.png)
 
@@ -69,7 +71,7 @@ To run this analysis, the following R packages are needed:
 | National UFO Reporting Center | National UFO Reporting Center (NUFORC). UFO Sightings Database. Available online at <https://nuforc.org/> |
 | Orbitron Font | Impallari, M. (2018). Orbitron. Google Fonts. <https://fonts.google.com/specimen/Orbitron> |
 | Barlow Font | Tribby, J. & Velasco, C. (2017). Barlow. Google Fonts. <https://fonts.google.com/specimen/Barlow> |
-| Font Awesome Icons | Font Awesome. (2023). Font Awesome Free 6.0. <https://fontawesome.com/> |
+| Font Awesome | Font Awesome. (2023). Font Awesome Free 6.0. <https://fontawesome.com/> |
 
 ## Acknowledgements
 
