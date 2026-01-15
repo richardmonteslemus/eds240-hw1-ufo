@@ -4,7 +4,23 @@
 
 ## Purpose
 
-This repository contains the analysis and visualization of UFO sighting data. This assignment focuses on created custom ggplot objects for a variety of plots and then patching them together onto a base plot to create a custom plot. This custom plot representing UFO sighting frequency over time and space using a variety of visualization techniques. 
+This repository contains the analysis and visualization of UFO sighting data. This assignment focuses on created custom ggplot objects for a variety of plots and then patching them together onto a base plot to create a custom plot. This custom plot represents UFO sighting frequency over time and space using a variety of visualization techniques.
+
+## File Structure
+
+```         
+├── eds240-hw1-ufo.Rproj
+├── fonts
+├── HW1_files
+├── HW1.html
+├── HW1.pdf
+├── HW1.qmd
+├── images
+│   └── ufo.png
+├── outputs
+│   └── ufo_sightings_infographic.png
+└── README.md
+```
 
 ## File Description
 
@@ -42,8 +58,19 @@ To run this analysis, the following R packages are needed:
 -   `magick`
 -   `grid`
 
+![UFO Sightings Infographic Output](outputs/ufo_sightings_infographic.png)
+
+## References
+
+| Resource | Citation |
+|------------------------------------|------------------------------------|
+| Original Visualization | Oehm, D. (2023). TidyTuesday UFO Sightings Visualization. GitHub repository. <https://github.com/doehm/tidytues> |
+| UFO Sightings Data | Mock, T. (2023). Tidy Tuesday: A weekly social data project. <https://github.com/rfordatascience/tidytuesday/tree/main/data/2023/2023-06-20> |
+| National UFO Reporting Center | National UFO Reporting Center (NUFORC). UFO Sightings Database. Available online at <https://nuforc.org/> |
+| Orbitron Font | Impallari, M. (2018). Orbitron. Google Fonts. <https://fonts.google.com/specimen/Orbitron> |
+| Barlow Font | Tribby, J. & Velasco, C. (2017). Barlow. Google Fonts. <https://fonts.google.com/specimen/Barlow> |
+| Font Awesome Icons | Font Awesome. (2023). Font Awesome Free 6.0. <https://fontawesome.com/> |
 
 ## Acknowledgements
 
--   **Original Visualization**: Created by [Dan Oehm](https://github.com/doehm) as part of TidyTuesday
--   **Course information**: The code and content for this analysis comes from the EDS 240 course in the Bren School of Environmental Science and Managment Master of Environmental Data Science Program. This course is led by Sam Shanny-Csik and co-led by Annie Adams.
+The code and content for this analysis comes from the EDS 240 course in the Bren School of Environmental Science and Management Master of Environmental Data Science Program. This course is led by Sam Shanny-Csik and co-led by Annie Adams.
